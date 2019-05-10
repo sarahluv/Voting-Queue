@@ -7,6 +7,12 @@ Purpose: To show a queue of voters and the voting results
 *******************************************************************************
 */
 
+/*------------------------------------------------------------------------------
+       FEEDBACK FROM INSTRUCTOR:
+       First program: Output file was not created correctly.  Queue processing 
+       needed a little work. Second program not complete.
+------------------------------------------------------------------------------*/
+
 import jsjf.CircularArrayQueue;
 import java.util.Scanner;
 import java.io.*;
